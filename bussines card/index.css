@@ -1,0 +1,33 @@
+body {
+  margin: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img1 {
+  width: 150px;
+  border-radius: 50%;
+  border: 2px gold solid;
+}
+
+.card {
+    
+  width: 550px;
+  color: #cfcddb;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  background: black;
+  text-align: center;
+  border-bottom: 20px gold solid;
+  border-radius: 15px;
+}
+.bar {
+  border: 2px gold;
+}
+.code {
+  width: 80px;
+}
+.qr{
+  margin-top: 20px;
+  width: 90px;
+}
